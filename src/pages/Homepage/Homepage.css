@@ -1,0 +1,24 @@
+.homepage-container {
+    min-height: 100vh;
+}
+
+
+.categories-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 50px;
+    margin: 10px;
+}
+
+.products-conatainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.p-category {
+    text-transform: uppercase;
+    cursor: pointer;
+}
